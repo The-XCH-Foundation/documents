@@ -21,10 +21,12 @@ A decentralized developer community focused on building ChiaLisp based blockchai
 
 ## About the Founders
 
- - ClydeWallace22 (Brandt) - With 12 years experience leading teams in high-tech industries; Clyde is passionate about creating robust organizational frameworks that are sustainable, efficient, and value driven. Clyde has administered a $5 billion budget with Charter Communications, written FCC whitepapers to define broadband propagation mapping standards, and spoken as the legislative expert on a Durango Tech-Knowledge UAV (Drone) panel. Clyde's background working within diverse industries alongside governments, consumers, and developers enables him to establish organizational structures that enhance associate engagement, ensure sustainability, and encourage community involvement.
-
+ ClydeWallace22 (Brandt) -
+ >
+ With 12 years experience leading teams in high-tech industries; Clyde is passionate about creating robust organizational frameworks that are sustainable, efficient, and value driven. Clyde has administered a $5 billion budget with Charter Communications, written FCC whitepapers to define broadband propagation mapping standards, and spoken as the legislative expert on a Durango Tech-Knowledge UAV (Drone) panel. Clyde's background working within diverse industries alongside governments, consumers, and developers enables him to establish organizational structures that enhance associate engagement, ensure sustainability, and encourage community involvement.
+>
  Clyde began following the Chia Network^tm^ shortly before transactions went live on mainnet and quickly began farming 175TB. To better understand ChiaLisp, the on-chain programming language, Clyde developed the Rhizosphere IDE. Rhizosphere is an open-source python based IDE for which Clyde was a finalist in the Sirius Labs hackathon. Most recently Clyde has been working as the Chief Operating Officer of xch.gallery, the first NFT marketplace live on Chia Testnet10.
-
+>
  It is Clyde's vision that The XCH Foundation evolves to become fully operated and managed by the community. The Foundation ideally will develop open source tooling, educational materials, and industry partnerships to expand the utility of ChiaLisp based Proof-of-Space-Time blockchains. Clyde believes the adaptable framework he developed for The Foundation ensures this vision and lays the groundwork for advancing utility within the ecosystem. Clyde can be reached on Discord, Keybase, Twitter, and Github.
 
  - Drose ()
