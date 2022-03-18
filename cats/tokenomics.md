@@ -1,5 +1,5 @@
 # Tokenomics
-Two types of CATs will be distributed, those that will be sold and those that will be issued as governance tokens.
+Two groups of CATs will be distributed, those that will be sold and those that will be issued as governance tokens.mtio
 
 ## CAT's for Sale:
 General, Bounty, Project
