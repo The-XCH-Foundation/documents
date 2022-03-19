@@ -29,7 +29,13 @@ Clyde began following the Chia Network^tm^ shortly before transactions went live
 
 It is Clyde's vision that The XCH Foundation evolves to become fully operated and managed by the community. The Foundation ideally will develop open source tooling, educational materials, and industry partnerships to expand the utility of ChiaLisp based Proof-of-Space-Time blockchains. Clyde believes the adaptable framework he developed for The Foundation ensures this vision and lays the groundwork for advancing utility within the ecosystem. Clyde can be reached on Discord, Keybase, Twitter, and Github.
 
-Drose ()
+Drose (Dylan) -
+
+Dylan brings passion and energy to the foundation. For the last 7 years Dylan has focused on commercializing new technology through his own startups, University of Washington EE labs, and new ideas at Amazon. He has lead teams, built out prototypes and supply chains, and understands how to bring cutting edge technology to everyday people. Dylan strives to bring people with a variety of skills and experiences into Chia's development community, and believes in expanding opportunities to contribute to Chia at this early stage.
+
+Dylan got involved with Chia after starting his own plug and play mining business on Ethereum. He was fascinated by the opportunity to bring the power of crypto into an easy to use form factor and believed that Chia was the crypto currency to make that happen. Dylan ran a small batch of prototypes for the Evergreen miner, a plug and play Chia farming device that includes a mobile app, pre-plotted drives, and a farmer/wallet server. After a successful first batch, Dylan decided to prepare for a new wave of adoption by scaling out a supply Chain and redesigning the software around scalability, security, and upgradeability. When he's not building Evergreen OS, he is helping people setup large Chia farms, hosting the Chia Happy hour, and spreading the gospel (mainly on Twitter)
+
+Dylan wants to build a decentralized organization that is built by and for the community. The Foundation will act as a hub for consumers and businesses learn about Chia, get started as a farmer or developer, and meet other people who share a passion for technology. Dylan enjoys bringing people together to work on Chia ideas and believe the Foundation can be a bridge for these activities to happen. Dylan can be reached on Twitter.
 
 xchcentral_JM ()
 
