@@ -1,17 +1,21 @@
 # Project Ideas
 
-## Full Node
+## Developer Projects
 
-## Light Wallet
+### Full Node
+### Light Wallet
+### Mobile Wallet
+### Mobile Node
+### CAT Creation Tool
+### CAT Monitoring Tool
+### DAO Governance Toolset
 
-## Mobile Wallet
+## Designer & Writer Projects
 
-## Mobile Node
+### ChiaLisp Education Course
+### PoST Education Course
 
-## CAT Creation Tool
+## Community Manager Projects
 
-## CAT Monitoring Tool
-
-## DAO Governance Toolset
-
-##
+### XCH Events
+### Start Your Farm Program
