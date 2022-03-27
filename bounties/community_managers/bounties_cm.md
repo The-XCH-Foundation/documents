@@ -1,10 +1,3 @@
-### Discord Bounty:
-
-  - Whoever refers the most users wins
-  - Must be real people whose accounts meet our privacy restrictions
-  - Users must remain in the Discord for contest duration
-  - Referred users will be individually reviewed
-
 ### Twitter Bounty:
 
   - Tweet with highest engagement about community wins
@@ -17,3 +10,15 @@
   - Winning design will be determined by Founders
   - Must design a community group concept for Facebook, Telegram, Reddit, or other social community platform
   - This is an idea design bounty and submissions should not be active community groups
+
+### Chia Workshop: /chia_workshop.md
+
+### Member Engagement Plan
+
+### Patron Engagement Plan
+
+### Officer Engagement Plan
+
+### User Outreach Plan (potentially target market based)
+
+### General Marketing Plan

@@ -11,3 +11,13 @@
   - Must include logo
   - Must include information about the community
   - Must include information about the  platform
+
+### Member NFT Template
+
+### Lead NFT Template
+
+### Officer NFT Template
+
+### Founder NFT
+
+### Video Intros and Outros
