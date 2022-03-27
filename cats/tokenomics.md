@@ -37,7 +37,7 @@ These CATs will be limited in quantity and will correspond to specific projects.
 ### Lead CAT
 
   - Share of sold CAT's proceeds: 3
-  - Voting rights: 3
+  - Voting rights: 2
 
 ### Officer CAT
 
@@ -64,14 +64,14 @@ These CATs will be limited in quantity and will correspond to specific projects.
   - Voting rights based on verified CAT
 
 ### Burning CAT's
-  
+
   - Initial verification method until meltable CATs are developed
   - Burn address is provided by the Foundation
   - Proof of burn requires the user to sign the coin ID with their private keys associated with the public key that burned the CAT
   - Process to be deprecated by melting CAT's
 
 ### Melting CAT's - (Pending)
-  
+
   - Upon release, deprecates burning CAT's
   - Melting process is provided by the Foundation
   - Proof of melt requires the user to sign the coin ID with their private keys associated with the public key that burned the CAT
